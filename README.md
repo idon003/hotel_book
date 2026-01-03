@@ -35,8 +35,8 @@
 
 ## Как запустить код
 ```
-git clone https://github.com/idon003/hotel_booking.git
-cd hotel-booking
+git clone https://github.com/idon003/hotel_book.git
+cd hotel_book
 
 python -m venv venv
 source venv/bin/activate
